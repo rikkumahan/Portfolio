@@ -9,7 +9,7 @@ CS student at VIT Vellore. I build AI products end to end: React, Node.js/FastAP
 | Project | What it is |
 |---|---|
 | [Water overflow alarm](https://github.com/rikkumahan/water-overflow-alarm) | Turns a home CCTV camera and an iPhone into a tank overflow alarm. In daily use at home. |
-| [Tasker AI](https://github.com/rikkumahan/Tasker) ([live demo](https://tasker-kappa-flame.vercel.app)) | Turns your Gmail inbox into context-mapped action items. Scored 77/80 at the OpenAI x Outskill hackathon. |
+| [Tasker AI](https://github.com/rikkumahan/Tasker) | Turns your Gmail inbox into context-mapped action items. Scored 77/80 at the OpenAI x Outskill hackathon. |
 | [AgentCare](https://github.com/rikkumahan/AgentCare) | AI agents that run a hospital front desk (booking, documents) and never make a medical call. |
 | [magent-init](https://github.com/rikkumahan/Agentic_Setup) | One command to run several AI coding agents on one repo without collisions. |
 | [CRACK-JEE](https://github.com/rikkumahan/CRACK-JEE) | A personal AI coach for JEE aspirants, built as an MCP server. |
